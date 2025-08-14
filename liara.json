@@ -1,5 +1,5 @@
 {
-  "app": "academi-mit",
+  "app": "school-management",
   "port": 80,
   "build": {
     "location": "iran"
